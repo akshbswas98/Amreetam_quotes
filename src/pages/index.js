@@ -141,7 +141,7 @@ export default (() => {
 					text-transform="uppercase"
 					margin="6px 0"
 				>
-					#Qoute1
+					#QUOte1
 				</Text>
 				<Text as="h2" font="--headline2" margin="0 0 12px 0">
 					If a man clings tenaciously to the truth,he ultimately realizes God..
